@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\12924\desktop\数据结构第三次上机\project1\project1\main.cpp(79): warning C4101: “x”: 未引用的局部变量
+  Project1.vcxproj -> C:\Users\12924\Desktop\数据结构第三次上机\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\12924\Desktop\数据结构第三次上机\Project1\Debug\Project1.pdb (Partial PDB)
